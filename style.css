@@ -1,0 +1,30 @@
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+}
+
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 5vh;
+    width: 10vw;
+    background-color: yellow;
+    border-radius: 15px;
+
+
+}
+
+.ban span{
+    font-weight: bold;
+    font-size: larger;
+}
+
+body{
+    background-color: rgb(124, 124, 124);
+}
+
